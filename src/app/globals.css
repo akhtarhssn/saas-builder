@@ -94,6 +94,7 @@ B (255 */
   * {
     @apply border-border;
   }
+
   body {
     @apply bg-background text-foreground;
   }
@@ -118,4 +119,17 @@ B (255 */
     opacity: 1;
     transform: scale(1);
   }
+}
+
+.cl-footer {
+  padding-bottom: 10px;
+}
+
+.cl-internal-1dauvpw {
+  display: none;
+}
+
+
+.cl-userButtonPopoverFooter {
+  display: none;
 }
